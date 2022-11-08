@@ -1,0 +1,33 @@
+{
+    "name": "Grimsby Nature Home",
+    "address": "219 Lake st, Grimsby, ON L3M 2B2",
+    "description": "Lake Front House in Grimsby",
+    "image": "https://ipfs.io/ipfs/QmZbVHHrPv5uFfKPJhpuhmY57cfemK4MVt1tfnFQAeQEgU",
+    "id": "3",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 120
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Single family residence"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 3000
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2020
+        }
+    ]
+}

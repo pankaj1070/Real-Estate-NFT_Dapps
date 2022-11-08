@@ -1,0 +1,33 @@
+{
+    "name": "Scugog Modern Home",
+    "address": "623 Alma stCsugog, Port Perry, ON L19 1C5",
+    "description": "Custom built home in Port Perry",
+    "image": "https://ipfs.io/ipfs/Qmahp1qSwokD6ksUvC4BwArcjMT8Jzs8bqGQyXNorj9WYW",
+    "id": "2",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 300
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Single family residence"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 3979
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 1980
+        }
+    ]
+}
