@@ -1,5 +1,7 @@
 # One-Coin Realty
 
+![Logo](Images/Logo.png)
+
 At One Coin-Realty we strive to accelerate the process of buying and selling properties through the medium of smart contracts and tokenization. We streamline how investors/homeowners buy and sell high quality real estate assets, while increasing  the returns for sellers.  Our platform reduces the “friction” costs incurred by industry “middlemen”.
 
 This Project has 4 step process:
@@ -49,3 +51,18 @@ This Project has 4 step process:
 7. The transactions are finally verified in the metamask. Buyer should see "Real" token in their Wallet.
 
 ![Step7](Images/Step 7.png)
+
+
+
+
+### Steps for Setting up for initial Setup:
+
+1. You will need to Install NodeJS
+
+2. Dependencies:  NPM install
+
+3. Start Hardhat node : npx hardhat node
+
+4. Run Deployment Script: start and new terminal and run : npx hardhat run ./scripts/deploy.js --network localhost
+
+5. front end command:  NPM run start
